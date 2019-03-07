@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://magicdogs.github.io/blog/2019-03/mybatis%E8%A1%A8%E5%90%8D%E4%BF%AE%E6%94%B9%E6%8F%92%E4%BB%B6/</loc>
+    <lastmod>2019-03-05T22:12:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://magicdogs.github.io/blog/2019-03/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2019-03-02T21:46:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://magicdogs.github.io/blog/</loc>
+    <lastmod>2019-03-05T22:12:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://magicdogs.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://magicdogs.github.io/tags/golang/</loc>
+    <lastmod>2019-03-02T21:46:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://magicdogs.github.io/tags/java/</loc>
+    <lastmod>2019-03-02T21:46:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://magicdogs.github.io/categories/java/</loc>
+    <lastmod>2019-03-02T21:46:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://magicdogs.github.io/</loc>
+    <lastmod>2019-03-05T22:12:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://magicdogs.github.io/tags/python/</loc>
+    <lastmod>2019-03-02T21:46:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://magicdogs.github.io/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://magicdogs.github.io/tags/</loc>
+    <lastmod>2019-03-02T21:46:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://magicdogs.github.io/series/%E7%9F%B3%E5%A4%B4%E8%AE%B0/</loc>
+    <lastmod>2019-03-02T21:46:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
