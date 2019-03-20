@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Magic</title>
+    <link>https://magicdogs.github.io/blog/</link>
+    <description>Recent content in Blogs on Magic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Wed, 20 Mar 2019 13:29:32 +0800</lastBuildDate>
+    
+	<atom:link href="https://magicdogs.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pinpoint学习笔记</title>
+      <link>https://magicdogs.github.io/blog/2019-03/pinpoint%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Wed, 20 Mar 2019 13:29:32 +0800</pubDate>
+      
+      <guid>https://magicdogs.github.io/blog/2019-03/pinpoint%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+      <description>Pinpoint 学习笔记! Pinpoint github 官网对其描述 Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java. (一款开源的 应用性能管理工具 为大规模的分布式系统定制 ) ========================================================================== 本文将从这 4 个方面理解 Pinpoint 的实现机制 JVMTI 、 JVMTIAgent 与 JAVAAGENT 机制 Pinpoint ClassLoader CLASS 字节码操作工具 TCP OR UDP 1.JVMTI 、 JVMTIAgent 与 JAVAAGENT 机制 JVMTI 接口 JVMTI 全称JVM Tool Interface，是jvm暴露出来的一些供用户扩展的接口集合，JVMTI是基于事件驱动的 JVM每执行到一定的逻辑就会调用一些事件的回调接口（如果有的话），这些接口可以供开发</description>
+    </item>
+    
+    <item>
+      <title>Mybatis表名修改插件</title>
+      <link>https://magicdogs.github.io/blog/2019-03/mybatis%E8%A1%A8%E5%90%8D%E4%BF%AE%E6%94%B9%E6%8F%92%E4%BB%B6/</link>
+      <pubDate>Tue, 05 Mar 2019 22:12:53 +0800</pubDate>
+      
+      <guid>https://magicdogs.github.io/blog/2019-03/mybatis%E8%A1%A8%E5%90%8D%E4%BF%AE%E6%94%B9%E6%8F%92%E4%BB%B6/</guid>
+      <description>&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;有时候我们需要通过同一套 mybatis mapper 来操作相同的表结构但是却拥有不同的表名的时候，这个插件可以帮助我们在执行mapper的时候动态更改操作的表名字。目前只提供在做增删改查的时候，动态的追加表名后缀到mybatis的mapper sql 中。 特性 基于springboot2开发，实现了自动装配。完美兼容 pagehelper 插件，只捕获处理 select,insert,delete,update 语句。项目地址: tablehelper MAV</description>
+    </item>
+    
+    <item>
+      <title>随笔</title>
+      <link>https://magicdogs.github.io/blog/2019-03/%E9%9A%8F%E7%AC%94/</link>
+      <pubDate>Sat, 02 Mar 2019 21:46:53 +0800</pubDate>
+      
+      <guid>https://magicdogs.github.io/blog/2019-03/%E9%9A%8F%E7%AC%94/</guid>
+      <description>&amp;#160; &amp;#160; &amp;#160; &amp;#160; 做一个java程序猿已经将近5年了，总觉的得留下的什么，不管是心情也好，技术也罢。一直想写博客，却又一直犹豫不决，终于狠下心来，决定把博客弄一弄，也许是想为自己以后留点什么吧。 &amp;#160; &amp;#160; &amp;#160; &amp;#160;我是一个喜欢爱折腾，瞎捣鼓的coder，不管是golang，还是python，在某些场景下，哪一种种语言的开发效率高，有优势，就喜欢用哪种，博客就用来记录生活的点滴和学习的历程好了，时光荏苒，青春不</description>
+    </item>
+    
+  </channel>
+</rss>

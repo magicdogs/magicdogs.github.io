@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Magic</title>
+    <link>https://magicdogs.github.io/series/</link>
+    <description>Recent content in Series on Magic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    
+	<atom:link href="https://magicdogs.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>石头记</title>
+      <link>https://magicdogs.github.io/series/%E7%9F%B3%E5%A4%B4%E8%AE%B0/</link>
+      <pubDate>Sat, 02 Mar 2019 21:46:53 +0800</pubDate>
+      
+      <guid>https://magicdogs.github.io/series/%E7%9F%B3%E5%A4%B4%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

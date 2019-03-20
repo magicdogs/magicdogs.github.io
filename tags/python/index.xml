@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Magic</title>
+    <link>https://magicdogs.github.io/tags/python/</link>
+    <description>Recent content in Python on Magic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Sat, 02 Mar 2019 21:46:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://magicdogs.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>随笔</title>
+      <link>https://magicdogs.github.io/blog/2019-03/%E9%9A%8F%E7%AC%94/</link>
+      <pubDate>Sat, 02 Mar 2019 21:46:53 +0800</pubDate>
+      
+      <guid>https://magicdogs.github.io/blog/2019-03/%E9%9A%8F%E7%AC%94/</guid>
+      <description>&amp;#160; &amp;#160; &amp;#160; &amp;#160; 做一个java程序猿已经将近5年了，总觉的得留下的什么，不管是心情也好，技术也罢。一直想写博客，却又一直犹豫不决，终于狠下心来，决定把博客弄一弄，也许是想为自己以后留点什么吧。 &amp;#160; &amp;#160; &amp;#160; &amp;#160;我是一个喜欢爱折腾，瞎捣鼓的coder，不管是golang，还是python，在某些场景下，哪一种种语言的开发效率高，有优势，就喜欢用哪种，博客就用来记录生活的点滴和学习的历程好了，时光荏苒，青春不</description>
+    </item>
+    
+  </channel>
+</rss>
