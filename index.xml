@@ -6,10 +6,19 @@
     <description>Recent content on Magic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Wed, 20 Mar 2019 13:29:32 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2019 12:48:45 +0800</lastBuildDate>
     
 	<atom:link href="https://magicdogs.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ANTLR优化JS语法树</title>
+      <link>https://magicdogs.github.io/blog/2019-03/antlr%E4%BC%98%E5%8C%96js%E8%AF%AD%E6%B3%95%E6%A0%91/</link>
+      <pubDate>Fri, 29 Mar 2019 12:48:45 +0800</pubDate>
+      
+      <guid>https://magicdogs.github.io/blog/2019-03/antlr%E4%BC%98%E5%8C%96js%E8%AF%AD%E6%B3%95%E6%A0%91/</guid>
+      <description>ANTLR优化JS语法树 1.背景 在最近项目中，对老的风控项目进行重构，风控决策包含很多的规则项和表达式，老项目使用的是apache jexl 这个脚本引擎来解析和执行表达式的计算，对于重构后的新项目打算将脚本引擎换成java8 里面的 javascript 引擎，通过程序的清洗转换，老的表达式都转换成新的 js 函数。转换过来的表达式如下图所示： 转换过来的函数包含很多重复调用，如何解决重复调用呢？ 第一想法可能就是人工修改，有没有办法通过</description>
+    </item>
     
     <item>
       <title>Pinpoint学习笔记</title>
